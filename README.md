@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @dewiktor2
-- 📫 How to reach me  dewiktor@gmail.com
+- 👋 Hi, I’m [@dewiktor2](https://github.com/dewiktor2)
+- 📫 Reach me at [dewiktor@gmail.com](mailto:dewiktor@gmail.com)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/wiktor-dębski/)
